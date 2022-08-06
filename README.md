@@ -18,27 +18,6 @@ Individual Assignment for `Java Web Application Development (PRJ301)` subject at
   - `JDBC` - A Java API to connect and execute the query with the database
   - `MS SQL` - A relational database management system developed by Microsoft
 
-## 🌿 Preview images
-
-<br>
-<img src="./img/Homepage.png" width="400" height="217" />
-&nbsp;
-<img src="./img/Product.png" width="400" height="217" />
-&nbsp;
-<img src="./img/Cart.png" width="400" height="217" />
-&nbsp;
-<img src="./img/login.png" width="400" height="217" />
-&nbsp;
-<img src="./img/Register.png" width="400" height="217" />
-&nbsp;
-<img src="./img/admin_page.png" width="400" height="217" />
-&nbsp;
-<img src="./img/update_product.png" width="400" height="217" />
-&nbsp;
-<img src="./img/create_product.png" width="400" height="217" />
-
-<br>
-
 ## 🏃‍♂️ How to run project
 
 - To run this project, you should use Netbeans IDE (especially version 12.4) to run easily, another IDE like IntelliJ, Eclipse,... You need to find the way to config this project before using.
@@ -69,7 +48,7 @@ Individual Assignment for `Java Web Application Development (PRJ301)` subject at
 ## ⚠️ Note
 
 - To use `Admin` role with this project, please login with `username: admin@gmail.com; password: 1`
-- To use `User` role with this project, please login with `username: user@gmail.com; password: 1` or use `Sign up` to create account.
+- To use `User` role with this project, please login with `email` or use `Sign up` to create account.
 
 ## 📍 License & copyright
 

@@ -42,12 +42,12 @@ Individual Assignment for `Java Web Application Development (PRJ301)` subject at
 </Context>
 ```
 
-- Set up database by running the `script.sql` file in `database` folder.
+- Set up database by running the `scriptVegetableShop` file in `database` folder.
 - Finally, let's try to go shopping 🛒
 
 ## ⚠️ Note
 
-- To use `Admin` role with this project, please login with `username: admin@gmail.com; password: 1`
+- To use `Admin` role with this project, please login with `username: ngothiep@gmail.com; password: Thieppro123`
 - To use `User` role with this project, please login with `email` or use `Sign up` to create account.
 
 ## 📍 License & copyright

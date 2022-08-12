@@ -1,26 +1,22 @@
-# Vegetable Store (Java Web Application Development Assignment)
+# Vegetable Store
 
 ## 💡 Introduction
 
-The Vegetable Store specializes in providing fresh and clean vegetables every day, making it easy for customers to buy fresh vegetables in a hustle life. And more especially during this COVID 19 pandemic.
-
-## 👋 Background
-
-Individual Assignment for `Java Web Application Development (PRJ301)` subject at FPT University.
+The Vegetable Store specializes in providing fresh and clean vegetables every day, making it easy for customers to buy fresh vegetables in a hustle life. 
 
 ## ⚙️ Technology
 
 - Front End
   - `Bootstrap 5`
-  - `JSTL` - Standard Tag Library for JSP
+  - `JSTL` 
 - Backend
-  - `Servlet` - Java programming language class that is used to extend the capabilities of servers
-  - `JDBC` - A Java API to connect and execute the query with the database
-  - `MS SQL` - A relational database management system developed by Microsoft
+  - `Servlet` 
+  - `JDBC` 
+  - `MS SQL` 
 
-## 🏃‍♂️ How to run project
+## 📌 How to run project
 
-- To run this project, you should use Netbeans IDE (especially version 12.4) to run easily, another IDE like IntelliJ, Eclipse,... You need to find the way to config this project before using.
+- To run this project, you should use Netbeans IDE to run easily, another IDE like IntelliJ, Eclipse,... You need to find the way to config this project before using.
 - After import project to IDE, please import `JSTL Library` and `external library` from `lib` folder.
 - At `src\java\sendemail\SendEmail.java` file, you need to change this code into your email and password to use `Send Email function`.
 
@@ -43,7 +39,6 @@ Individual Assignment for `Java Web Application Development (PRJ301)` subject at
 ```
 
 - Set up database by running the `scriptVegetableShop` file in `database` folder.
-- Finally, let's try to go shopping 🛒
 
 ## ⚠️ Note
 
